@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Suite" duration-ms="88" started-at="2017-01-25T08:03:24Z" finished-at="2017-01-25T08:03:24Z">
+    <groups>
+    </groups>
+    <test name="Data Provider" duration-ms="88" started-at="2017-01-25T08:03:24Z" finished-at="2017-01-25T08:03:24Z">
+      <class name="core.TMTest">
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="bm" is-config="true" duration-ms="6" started-at="2017-01-25T00:03:24Z" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.TMTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@46daef40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="test" duration-ms="12" started-at="2017-01-25T00:03:24Z" data-provider="dima_nakhabtsev" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.01 (Summary of 1 and 2 equals 3)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="bm" is-config="true" duration-ms="0" started-at="2017-01-25T00:03:24Z" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.TMTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@12f41634]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="test" duration-ms="3" started-at="2017-01-25T00:03:24Z" data-provider="dima_nakhabtsev" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.02 (Summary of 3 and 4 equals 7)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="bm" is-config="true" duration-ms="1" started-at="2017-01-25T00:03:24Z" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.TMTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@13c27452]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="test" duration-ms="3" started-at="2017-01-25T00:03:24Z" data-provider="dima_nakhabtsev" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.03 (Summary of 5 and 6 equals 11)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="bm" is-config="true" duration-ms="1" started-at="2017-01-25T00:03:24Z" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.TMTest.test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@262b2c86]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.TMTest@5bcab519]" test-instance-name="TC-01.04 (Summary of 7 and 8 equals 15)" name="test" duration-ms="4" started-at="2017-01-25T00:03:24Z" data-provider="dima_nakhabtsev" finished-at="2017-01-25T00:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.04 (Summary of 7 and 8 equals 15)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- core.TMTest -->
+    </test> <!-- Data Provider -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>
